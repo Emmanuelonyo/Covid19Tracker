@@ -1,4 +1,4 @@
-# my-vueapp
+# Covid19 Tracker
 
 ## Project setup
 ```
